@@ -1,0 +1,8 @@
+2025-06-21 14:37:14,946 - INFO - \U0001f4e6 Starting full preprocessing pipeline
+2025-06-21 14:37:18,070 - INFO - Loaded train: (1017209, 9), test: (41088, 8), store: (1115, 10)
+2025-06-21 14:43:31,770 - INFO - Loaded train: (1017209, 9), test: (41088, 8), store: (1115, 10)
+2025-06-21 14:44:32,458 - INFO - \u2705 Date features extracted for train and test
+2025-06-21 14:47:12,090 - INFO - Saved processed train/test before merge
+2025-06-21 14:47:50,009 - INFO - \u2705 Store preprocessed and saved
+2025-06-21 14:53:26,139 - INFO - \U0001f517 Merged train/test with store
+2025-06-21 14:57:04,851 - INFO - \u2705 Final merged datasets saved with timestamp

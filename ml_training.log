@@ -1,0 +1,25 @@
+2025-06-21 16:44:26,240 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-21 17:01:23,667 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-21 17:01:56,428 - INFO - Loaded store_train dataset with shape: (1017209, 23)
+2025-06-21 17:11:24,810 - INFO - Split data into training and validation sets
+2025-06-21 17:15:01,173 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-21 17:15:06,571 - INFO - Loaded store_train dataset with shape: (1017209, 23)
+2025-06-21 17:15:07,513 - INFO - Split data into training and validation sets
+2025-06-21 17:20:02,666 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-21 17:20:08,802 - INFO - Loaded store_train dataset with shape: (1017209, 23)
+2025-06-21 17:20:16,479 - INFO - Split data into training and validation sets
+2025-06-21 17:35:30,584 - INFO - \u2705 Model trained successfully
+2025-06-21 17:47:41,674 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-21 18:02:09,527 - INFO - \u2705 Model trained successfully
+2025-06-21 18:05:46,206 - INFO - \u2705 Model trained successfully
+2025-06-21 18:17:15,199 - INFO - Validation RMSE: 911.86
+2025-06-21 18:19:25,750 - INFO - \U0001f9e0 Model saved to: ../models/rf_model_20250621_174741.pkl
+2025-06-21 18:20:14,823 - INFO - \U0001f9e0 Model saved to: ../models/rf_model_20250621_174741.pkl
+2025-06-23 16:43:59,748 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-23 16:44:01,942 - INFO - Loaded store_train dataset with shape: (1017209, 23)
+2025-06-23 16:44:02,546 - INFO - Split data into training and validation sets
+2025-06-23 16:45:48,078 - INFO - \U0001f680 Started ML training with RandomForest
+2025-06-23 16:45:52,963 - INFO - Loaded store_train dataset with shape: (1017209, 23)
+2025-06-23 16:46:03,703 - INFO - Split data into training and validation sets
+2025-06-23 16:49:45,359 - INFO - \u2705 Model trained successfully
+2025-06-23 19:54:12,729 - INFO - \u2705 Model trained successfully

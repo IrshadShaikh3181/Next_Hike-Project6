@@ -1,0 +1,18 @@
+2025-06-21 16:07:38,319 - INFO - \U0001f4ca EDA notebook started
+2025-06-21 16:10:20,550 - INFO - Loaded store_train.csv with shape: (1017209, 23)
+2025-06-21 16:13:01,030 - INFO - Loaded store_train.csv with shape: (1017209, 23)
+2025-06-21 16:14:32,548 - INFO - Filtered out closed stores and zero sales
+2025-06-21 16:15:02,719 - INFO - Saved: sales_distribution plot
+2025-06-21 16:15:34,306 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-21 16:15:35,480 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-21 16:15:36,634 - INFO - Saved: sales_vs_promo plot
+2025-06-21 16:15:53,500 - INFO - Saved: monthly_avg_sales plot
+2025-06-21 16:18:01,131 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-21 16:18:02,461 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-21 16:18:29,878 - INFO - Saved: sales_by_assortment plot
+2025-06-21 16:18:31,007 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-21 16:18:32,156 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-21 16:18:59,911 - INFO - Saved: sales_by_assortment plot
+2025-06-21 16:19:04,011 - INFO - Saved: sales_vs_stateholiday plot
+2025-06-21 16:20:05,316 - INFO - Saved: customers_vs_sales plot
+2025-06-21 16:25:20,304 - INFO - \U0001f3af Completed EDA for store_train dataset.
